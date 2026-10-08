@@ -1,6 +1,6 @@
 # Business Entity Resolution: Amazon ML Challenge 2026 (Team Muse)
 
-**Team Muse:** Sruthi Sureshkumar (team leader) · Thaarini Balagapandian
+   **Team Muse:** Sruthi Sureshkumar ([@sruthisureshkumar-arch](https://github.com/sruthisureshkumar-arch)), team leader · Thaarini Balagapandian ([@thaarini18](https://github.com/thaarini18))
 
 This repository holds our pipeline for the Amazon ML Challenge 2026 business entity resolution task. The task is to
 link each Source-1 business to the Source-2 and Source-3 records that describe the same business, across the US,
